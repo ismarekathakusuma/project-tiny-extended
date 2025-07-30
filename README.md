@@ -1,4 +1,16 @@
-# Project Tiny Samples
+# Project Tiny Extended
+
+A reimagined version of Unity’s [ProjectTinySamples](https://github.com/Unity-Technologies/ProjectTinySamples), modernized for the latest Unity versions and expanded with new gameplay systems and content.
+
+## ✨ What’s New?
+- ✅ Compatible with Unity latest version
+- 🎮 New gameplay mechanics and levels
+- 🧱 Improved architecture and maintainability
+- 🧠 Clean and scalable Unity DOTS usage
+- 🛠️ Modern Unity Input System & UI integration (if added)
+
+> This project is a **community fork** and not affiliated with Unity Technologies.
+
 This repository contains samples for Project Tiny.
 Please [read through the Project Tiny guide](https://docs.google.com/document/d/1A8hen2hLFY5FLkC5gd3JP2Z-IpHfnAX-CpYLK3aOdwA/edit?usp=sharing) to understand the current project state, limitations, and getting started information.
 
@@ -132,3 +144,11 @@ Demonstrates how to do Dynamic meshes creation at runtime.
         <img src="./res/Trynow.png">
     </a>
 </p>
+
+## License
+
+This project is originally licensed under the MIT License by Unity Technologies.
+
+All modifications and new content are also licensed under the MIT License by ismarekathakusuma.
+
+See LICENSE for full terms.
