@@ -1,9 +1,8 @@
-using UnityEngine;
 using Unity.Entities;
 
 namespace Tiny3D
 {
-    [GenerateAuthoringComponent]
+    //[GenerateAuthoringComponent]
     public struct Rotate : IComponentData
     {
         public float speedX;
